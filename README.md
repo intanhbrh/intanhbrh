@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi there 👋 I'm Intan Habriah
 
-<!--
-**intanhbrh/intanhbrh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a final-year Computer Science (Software Engineering) student at Multimedia University.  
+I build web applications, experiment with new technologies, and enjoy solving problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Skills & Tech Stack
+
+- **Languages:** Java, Python, JavaScript, SQL  
+- **Frontend:** HTML, CSS, React  
+- **Backend:** Node.js, Express, Java (Spring basics)  
+- **Database:** MySQL, MongoDB  
+- **Tools & Dev:** Git, GitHub, VS Code, Postman  
+
+---
+
+## ⭐ Featured Projects
+
+| Project | Description |
+|---|---|
+| [Student Event Portal](https://github.com/intanhbrh/your-project-repo) | Web app for student event registration (React + Node.js) |
+| [Project 2](https://github.com/intanhbrh/project2) | Short description of project 2 |
+| [Project 3](https://github.com/intanhbrh/project3) | Short description of project 3 |
+
+*(Click project names to go to repo)*
+
+---
+
+## 📊 GitHub Stats
+
+<!-- GitHub Stats Card -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=intanhbrh&show_icons=true&theme=tokyonight" alt="Intan’s GitHub Stats" />
+</p>
+
+<!-- Most used languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=intanhbrh&theme=tokyonight&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+## 📬 Get in Touch
+
+- LinkedIn: https://www.linkedin.com/in/intanhbrh/  
+- Email: your.email@example.com  
+
+> ✨ I’m open to remote / part-time software dev roles (Nov 2025 – Mar 2026)  
