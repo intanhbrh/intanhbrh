@@ -40,7 +40,6 @@ I build web applications, experiment with new technologies, and enjoy solving pr
 </p>
 
 ---
-![Visitor Count](https://profile-counter.glitch.me/{YOUR_USER}/count.svg)
 
 
 ## 📬 Get in Touch
@@ -48,4 +47,11 @@ I build web applications, experiment with new technologies, and enjoy solving pr
 - LinkedIn: https://www.linkedin.com/in/intanhbrh/  
 - Email: your.email@example.com  
 
-> ✨ I’m open to remote / part-time software dev roles (Nov 2025 – Mar 2026)  
+> ✨ I’m open to remote / part-time software dev roles (Nov 2025 – Mar 2026)
+---
+
+## 👀 Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/intanhbrh/count.svg)
+
+--- 
