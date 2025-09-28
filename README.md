@@ -1,7 +1,6 @@
 # Hello 👋 I'm Intan
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/intanhbrh/)  
-![Visitors](https://profile-counter.glitch.me/intanhbrh/count.svg)
 
 ---
 
