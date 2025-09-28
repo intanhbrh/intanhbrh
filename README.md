@@ -5,17 +5,17 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 🎓 Final-year Computer Science (Software Engineering) student at Multimedia University  
 💻 Passionate about building software solutions & web applications  
 🌱 Currently exploring **machine learning & full stack development**  
 📂 All of my projects are available here on [GitHub](https://github.com/intanhbrh)  
-📧 Reach me at: **your.email@example.com**  
-🌐 Know more about me: [Portfolio](https://your-portfolio-link.com) *(to be added once you make your site)*  
+📧 Reach me at: **intanhbrh@gmail.com**  
+🌐 Know more about me: [Portfolio](https://your-portfolio-link.com) *(to be added once i done make my site)*  
 
 ---
 
-## 🚀 I Code With
+## I Code With
 
 <p align="center">
   <!-- Frontend -->
@@ -28,7 +28,7 @@
 
 ---
 
-## 📊 My Stats
+##  My Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=intanhbrh&show_icons=true&theme=tokyonight" alt="Intan's GitHub Stats" />
