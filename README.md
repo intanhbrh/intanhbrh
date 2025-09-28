@@ -40,6 +40,8 @@ I build web applications, experiment with new technologies, and enjoy solving pr
 </p>
 
 ---
+![Visitor Count](https://profile-counter.glitch.me/{YOUR_USER}/count.svg)
+
 
 ## 📬 Get in Touch
 
