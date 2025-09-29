@@ -1,6 +1,21 @@
-# Hello 👋 I'm Intan
+<h1 align="center">Hi 👋 I'm Intan</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/intanhbrh/)  
+###
+<div align="center">
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/intanhbrh/)  
+
+</div>
+
+###
+
+<div align="center">
+  <a href="https://visitorbadge.io/status?path=intanhbrh" target="_blank">
+    <img src="https://api.visitorbadge.io/api/visitors?path=intanhbrh&labelColor=%23e2e8f0&countColor=dodgerblue&labelStyle=upper" height="24" alt="visitors count"/>
+  </a>
+</div>
+
+###
 
 ---
 
