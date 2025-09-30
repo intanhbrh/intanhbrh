@@ -33,7 +33,7 @@
 
 <p align="center">
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,js,eclipse" /><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,js,eclipse" /><br/>
   <!-- Backend & Database -->
   <img src="https://skillicons.dev/icons?i=java,cpp,py,php,idea,nodejs,flutter,mysql,firebase" /><br/>
   <!-- Tools -->
