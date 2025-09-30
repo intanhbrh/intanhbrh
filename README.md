@@ -33,11 +33,11 @@
 
 <p align="center">
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,vue,tailwind,bootstrap,materialui,html,css,js,ts" /><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,js,eclipse" /><br/>
   <!-- Backend & Database -->
-  <img src="https://skillicons.dev/icons?i=java,py,php,nodejs,laravel,mysql,firebase" /><br/>
+  <img src="https://skillicons.dev/icons?i=java,cpp,py,php,idea,nodejs,flutter,mysql,firebase" /><br/>
   <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,wordpress,figma,linux" />
 </p>
 
 ---
