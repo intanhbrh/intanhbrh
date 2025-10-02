@@ -21,7 +21,6 @@
 
 ## About Me
 🎓 Final-year Computer Science (Software Engineering) student at Multimedia University  
-💻 Passionate about building software solutions & web applications  
 🌱 Currently exploring **machine learning & full stack development**  
 📂 All of my projects are available here on [GitHub](https://github.com/intanhbrh)  
 📧 Reach me at: **intanhbrh@gmail.com**  
