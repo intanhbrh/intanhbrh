@@ -20,7 +20,7 @@
 ---
 
 ## About Me
-🎓 Final-year Computer Science (Software Engineering) student at Multimedia University | currently learning Spring Boot
+🎓 Final-year Computer Science (Software Engineering) student at Multimedia University
 📂 All of my projects are available here on [GitHub](https://github.com/intanhbrh) 
 📧 Reach me at: **intanhbrh@gmail.com**  
 
