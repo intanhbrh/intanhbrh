@@ -21,7 +21,8 @@
 
 ## About Me
 🎓 Final-year Computer Science (Software Engineering) student at Multimedia University  
-📂 All of my projects are available here on [GitHub](https://github.com/intanhbrh)  
+📂 All of my projects are available here on [GitHub](https://github.com/intanhbrh) 
+💡 Currently exploring and learning spring boot
 📧 Reach me at: **intanhbrh@gmail.com**  
 
 ---
