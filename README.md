@@ -43,13 +43,11 @@
 ##  My Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=intanhbrh&show_icons=true&theme=tokyonight" alt="Intan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=intanhbrh&show_icons=true&theme=tokyonight&cache_bust=1" alt="Intan's GitHub Stats" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=intanhbrh&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=intanhbrh&theme=tokyonight&cache_bust=1" alt="GitHub Streak" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=intanhbrh&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=intanhbrh&layout=compact&theme=tokyonight&cache_bust=1" alt="Top Languages" />
 </p>
