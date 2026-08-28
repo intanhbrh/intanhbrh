@@ -6,7 +6,6 @@
   </a>
 </div>
 
-
 <div align="center">
   <a href="https://visitorbadge.io/status?path=intanhbrh" target="_blank">
     <img src="https://api.visitorbadge.io/api/visitors?path=intanhbrh&labelColor=%23e2e8f0&countColor=dodgerblue&labelStyle=upper" height="24" alt="visitors count"/>
