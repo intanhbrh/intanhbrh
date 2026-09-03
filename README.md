@@ -11,7 +11,6 @@
     <img src="https://api.visitorbadge.io/api/visitors?path=intanhbrh&labelColor=%23e2e8f0&countColor=dodgerblue&labelStyle=upper" height="24" alt="visitors count"/>
   </a>
 </div>
-
 ---
 ## About Me
 👩‍💻 Junior Software Developer/Web Developer/AI Engineer       
